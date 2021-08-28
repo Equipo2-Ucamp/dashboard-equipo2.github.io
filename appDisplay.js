@@ -13,7 +13,7 @@ function getData() {
     if ( status.length < 1 )
          status = 'Confirmed';
 
-    fetch('http://covid-api.mmediagroup.fr/v1/history?country=' + country+'&status='+ status)
+    fetch('https://covid-api.mmediagroup.fr/v1/history?country=' + country+'&status='+ status)
     .then( (response) => {
         return response.json();
     })
