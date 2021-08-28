@@ -1,4 +1,4 @@
-![Banner](.banner.png)
+![Banner](banner.png)
 
 # PROYECTO 3: Tablero de Datos ("Dashboard")
 
@@ -93,10 +93,10 @@ Para este proyecto se utiliza la API de COVID-19, Aquí puede ver la descripció
 ## 5. Demo
 
 Muestra Pantalla inicial con los campos a requisitar para poder realizar la consulta
-![imagen](.imageDemo.png)
+![imagen](imageDemo.png)
 
 Muestra del resultado de la consulta a través del API COVID-19
-![imagen](.imageDempEject.png)
+![imagen](imageDempEject.png)
 
 
 ## 6. Partners
